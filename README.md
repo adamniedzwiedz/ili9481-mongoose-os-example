@@ -1,7 +1,3 @@
-# A blank Mongoose OS app
+# Mongoose OS the ILI9481 TFT LCD example (C/C++)
 
-## Overview
-
-This is an empty app, serves as a skeleton for building Mongoose OS
-apps from scratch.
 
